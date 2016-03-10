@@ -194,14 +194,21 @@ across methods within a class.
   benefit to have so many steps being done so consistently
 
 ###Collaboration and Soft Skills
+
  **Git Hub Repo Examples**
+
  * README.md (https://github.com/MDes41/headcount/blob/master/README.md)
  * Pull Requests: (https://github.com/MDes41/headcount/pull/1)
                   (https://github.com/MDes41/headcount/pull/2)
+
  **Blog Posting Gist**
+
  * My Experience Repeating Module 1 (https://gist.github.com/MDes41/33877dd3ac4810c90796)
+
  **Defining the Relationship (DTR) Example**
+
  * DTR-Ilana_Corson-Matt_DesMarteau.md (https://gist.github.com/MDes41/8ca54b68af17e5c4dccc)
+
 
 ## Community
 
