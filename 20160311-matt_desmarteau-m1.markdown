@@ -124,7 +124,7 @@ Processes and functionality included:
 * [GitHub URL](https://github.com/MDes41/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-It was evaluated by  with the following results:
+It was evaluated by Horace with the following results:
 
 * Functional Expectations: 3
 * Test-Driven Development: 4
@@ -134,11 +134,20 @@ It was evaluated by  with the following results:
 * Code Sanitation: 4
 
 Notes:
-*
-*
-*
-*
-*
+
+* Functional through I5 -- hits requirements there
+* 80% doing great with method size / complexity, then have a handful scattered
+  around that are getting larger
+* Mostly using enums to proper effect -- looked at a few spots where we're using
+  map but not actually mapping or using each to iteratively modify some values
+* Testing is quite strong -- one of the stronger points of the project; mostly
+  because we're both doing small isolated unit tests with hand-rolled data on
+  our low-level methods AND doing the high-level integration stuff by passing
+  in the whole pile of CSV files
+* Looked at method interface constraints -- often in this project the spec forces
+  you to define methods in certain ways, but we can still manage that complexity
+  internally by having that method actually delegate out to other methods that
+  implement the various cases
 
 ##Posse challenges (4/5)
 
