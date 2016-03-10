@@ -1,4 +1,4 @@
-l# Matt DesMarteau - M1.5 Portfolio
+# Matt DesMarteau - M1 Portfolio
 
 ## Individual
 
@@ -126,12 +126,12 @@ Processes and functionality included:
 
 It was evaluated by  with the following results:
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation / Breaking Logic into Components:
-* Fundamental Ruby & Style:
-* Enumerable & Collections:
-* Code Sanitation
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
 
 Notes:
 *
@@ -184,11 +184,15 @@ across methods within a class.
   -- even if we might want to tweak design approaches here and there it's a big
   benefit to have so many steps being done so consistently
 
-###Collaboration
+###Collaboration and Soft Skills
  **Git Hub Repo Examples**
  * README.md (https://github.com/MDes41/headcount/blob/master/README.md)
  * Pull Requests: (https://github.com/MDes41/headcount/pull/1)
                   (https://github.com/MDes41/headcount/pull/2)
+ **Blog Posting Gist**
+ * My Experience Repeating Module 1 (https://gist.github.com/MDes41/33877dd3ac4810c90796)
+ **Defining the Relationship (DTR) Example**
+ * DTR-Ilana_Corson-Matt_DesMarteau.md (https://gist.github.com/MDes41/8ca54b68af17e5c4dccc)
 
 ## Community
 
